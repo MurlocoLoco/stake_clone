@@ -1,7 +1,9 @@
+import HelloWorld from "./components/HelloWorld";
+
 const App = () => {
   return (
     <div>
-      Olá mundo!
+      <HelloWorld />
     </div>
   );
 }
